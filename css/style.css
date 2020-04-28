@@ -233,8 +233,8 @@ table button:hover {
     bottom: 0;
     left: 0;
     background-color: pink;
-    height: 30px;
-    width: 30px;
+    height: 40px;
+    width: 40px;
     transform: rotate(-45deg);
     animation-name: beat;
     animation-duration: 1s;
@@ -245,19 +245,19 @@ table button:hover {
     content: "";
     border-radius: 50%;
     position: absolute;
-    width: 30px;
-    height: 30px;
+    width: 40px;
+    height: 40px;
     top: 0px;
-    left: 15px;
+    left: 20px;
   }
   .heart:before {
     background-color: pink;
     content: "";
     border-radius: 50%;
     position: absolute;
-    width: 30px;
-    height: 30px;
-    top: -15px;
+    width: 40px;
+    height: 40px;
+    top: -20px;
     left: 0px;
   }
 
